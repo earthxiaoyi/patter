@@ -1,4 +1,4 @@
-package cn.com.patter.observer;
+package cn.com.patter.observer.simple;
 
 public class ConcreteObserver implements Observer {
 	

@@ -1,4 +1,4 @@
-package cn.com.patter.observer;
+package cn.com.patter.observer.simple;
 /**
  * 观察者对象
  * @author admin
