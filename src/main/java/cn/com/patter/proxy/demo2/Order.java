@@ -16,6 +16,11 @@ public class Order {
 	 */
 	private String orderUser;
 	
+	
+	
+	public Order() {
+	}
+
 	/**
 	 * 传递构建所需要的数据
 	 * @param productName	产品名称
