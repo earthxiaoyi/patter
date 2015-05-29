@@ -12,8 +12,8 @@ public class Client {
 		double zs = d2.calcPrize("张三", null, null);
 		System.out.println("======张三应得奖金"+zs);
 		
-		double ls = d2.calcPrize("李四", null, null);
-		System.out.println("======李四应得奖金"+ls);
+		//double ls = d2.calcPrize("李四", null, null);
+		//System.out.println("======李四应得奖金"+ls);
 		
 	}
 
